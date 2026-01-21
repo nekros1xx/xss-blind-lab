@@ -25,7 +25,7 @@ if ($_POST) {
 <html>
 <head>
     <title>NEXORA Labs – Client Registration</title>
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
