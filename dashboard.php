@@ -21,7 +21,7 @@ $users = file_exists($dataFile)
 <html>
 <head>
     <title>NEXORA Labs – Admin Dashboard</title>
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
